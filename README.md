@@ -33,17 +33,17 @@ I'm a passionate Computer Science & Data Science student at NYU, committed to le
    - Tools: Python, Pandas, ARIMA, KLib.  
    - Improved forecasting accuracy by incorporating seasonal and sectoral trends.
 
-2.  **🔗 [Spotify: The Evolution of Music]([https://github.com/your-repo](https://github.com/anniezhang27/Spotify-The-Evolution-of-Music))**
+2.  **🔗 [Spotify: The Evolution of Music](https://github.com/anniezhang27/Spotify-The-Evolution-of-Music)**
      - Implemented predictve modeling techniques (LSTM) to forecast musical feature trends,       resulting in reduced product development costs and increased customer satisfaction. 
      - Tools: Python, Jupyter Notebook, Kaggle
      - Processed a dataset of 10,000+ songs fetched from Spotify's API, performing                comprehensive EDA to uncover patterns and insights.
 
-3. **🔗 [Themis: Anti-Human Trafficking Program]([https://github.com/your-repo](https://github.com/clarkyang37th/HackNYU-Themis))**  
+3. **🔗 [Themis: Anti-Human Trafficking Program](https://github.com/clarkyang37th/HackNYU-Themis)**  
    - Created a tool that encompassed facial recognition, audio analysis, and text analysis      to identify and combat human trafficking during HackNYU.  
    - Tools: Python, NLP libraries, JavaScript
    - Recognized for innovation and social impact.
 
-4. **🔗 [Financial Advisor Chatbot]([[https://github.com/your-repo](https://github.com/anniezhang27/Financial-Advisor-Chatbot)](https://github.com/clarkyang37th/HackNYU-Themis))**  
+4. **🔗 [Financial Advisor Chatbot](https://github.com/anniezhang27/Financial-Advisor-Chatbot)**  
    - Created a financial advising chatbot for college students to utilize.
    - Tools: Python, Open AI's API, Gradio (python library)
 
@@ -56,5 +56,5 @@ I'm a passionate Computer Science & Data Science student at NYU, committed to le
 
 ### **Contact Me**
 Let’s connect!  
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/annie-zhang-433059210/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/annie-zhang-433059210/)
 - 📧 Email: anniezhang@nyu.edu
