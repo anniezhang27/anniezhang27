@@ -3,7 +3,7 @@
 
 ---
 ### **About Me**
-I'm a passionate Computer Science & Data Science student at NYU, committed to leveraging technology to create impactful solutions. My interests lie in machine learning, AI ethics, and promoting accessibility in STEM. As a **Break Through Tech AI Fellow** and **Morgan Stanley Intern for Summer 2025**, I'm excited to build technologies that empower underrepresented communities while exploring new horizons in AI and ML.
+I'm a passionate Computer Science & Data Science student at NYU, committed to leveraging technology to create impactful solutions. My interests lie in machine learning, AI ethics, and promoting accessibility in STEM. As a **Break Through Tech AI Fellow**, I'm excited to build technologies that empower underrepresented communities while exploring new horizons in AI and ML.
 
 ---
 
