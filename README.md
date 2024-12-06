@@ -28,7 +28,7 @@ I'm a passionate Computer Science & Data Science student at NYU, committed to le
 
 ---
 ### **Key Projects**
-1. **🔗 [Energy Price Forecasting](link TBA)**
+1. **🔗 [Energy Price Forecasting](https://github.com/pginjupalli/Verizon-BTTAI-ElectricityPriceForecasting))**
    - Developed a time-series forecasting model to predict electricity prices by state for       Verizon.  
    - Tools: Python, Pandas, ARIMA, KLib.  
    - Improved forecasting accuracy by incorporating seasonal and sectoral trends.
