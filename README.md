@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Annie
-🌟 **Empowering Diversity in Tech | CS & DS Student @ NYU | AI Enthusiast**
+🌟 **CS & DS Student @ NYU | AI/ML Enthusiast**
 
 ---
 ### **About Me**
@@ -28,9 +28,9 @@ I'm a passionate Computer Science & Data Science student at NYU, committed to le
 
 ---
 ### **Key Projects**
-1. **🔗 [Energy Price Forecasting](https://github.com/pginjupalli/Verizon-BTTAI-ElectricityPriceForecasting))**
+1. **🔗 [Energy Price Forecasting- Verizon](https://github.com/pginjupalli/Verizon-BTTAI-ElectricityPriceForecasting))**
    - Developed a time-series forecasting model to predict electricity prices by state for       Verizon.  
-   - Tools: Python, Pandas, ARIMA, KLib.  
+   - Tools: Python, Pandas, ARIMA, KLib, Tableau  
    - Improved forecasting accuracy by incorporating seasonal and sectoral trends.
 
 2.  **🔗 [Spotify: The Evolution of Music](https://github.com/anniezhang27/Spotify-The-Evolution-of-Music)**
@@ -50,6 +50,7 @@ I'm a passionate Computer Science & Data Science student at NYU, committed to le
 ---
 
 ### **Extracurriculars & Hobbies**
+♦️ **Travel**: Skiing, music festivals, hiking.
 🌍 **Diversity Advocacy**: Organizing hackathon between AWS and NYU Women in Data Science Club.
 
 ---
