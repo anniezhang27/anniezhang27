@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Annie
+## Annie Zhang
 🌟 **CS & DS Student @ NYU | AI/ML Enthusiast**
 
 ---
