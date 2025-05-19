@@ -32,7 +32,7 @@ I'm a passionate Computer Science & Data Science student at NYU, committed to le
    - Developed a time-series forecasting model to predict electricity prices by state for       Verizon.  
    - Tools: Python, Pandas, ARIMA, KLib, Tableau  
    - Improved forecasting accuracy by incorporating seasonal and sectoral trends.
-   - 
+     
 2. **🔗 [WiDS Datathon 2025 Fellow](https://github.com/anniezhang27/WiDS-AI-Studio--Team-Brainwave)**
    - Built a hybrid model combining GCN embeddings with XGBoost to predict both ADHD diagnosis and biological sex using fMRI brain imaging data and metadata.
    - Helping identify individuals who may be at risk for ADHD earlier and lead to more personalized medicine and therapies.
