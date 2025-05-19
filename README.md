@@ -3,7 +3,7 @@
 
 ---
 ### **About Me**
-I'm a passionate Computer Science & Data Science student at NYU, committed to leveraging technology to create impactful solutions. My interests lie in machine learning, AI ethics, and promoting accessibility in STEM. As a **Break Through Tech AI Fellow**, I'm excited to build technologies that empower underrepresented communities while exploring new horizons in AI and ML.
+I'm a passionate Computer Science & Data Science student at NYU, committed to leveraging technology to create impactful solutions. My interests lie in machine learning, AI ethics, and promoting accessibility in STEM. 
 
 ---
 
@@ -36,7 +36,7 @@ I'm a passionate Computer Science & Data Science student at NYU, committed to le
 2. **🔗 [WiDS Datathon 2025 Fellow](https://github.com/anniezhang27/WiDS-AI-Studio--Team-Brainwave)**
    - Built a hybrid model combining GCN embeddings with XGBoost to predict both ADHD diagnosis and biological sex using fMRI brain imaging data and metadata.
    - Helping identify individuals who may be at risk for ADHD earlier and lead to more personalized medicine and therapies.
-   - Utilized a custom Graph Convolutional Network (GCN) to extract embeddings from functional connectivity matrices (FCMs)
+   - Utilized a custom Graph Convolutional Network (GCN) to extract embeddings from functional connectivity matrices (FCMs).
 
 3.  **🔗 [Spotify: The Evolution of Music](https://github.com/anniezhang27/Spotify-The-Evolution-of-Music)**
      - Implemented predictve modeling techniques (LSTM) to forecast musical feature trends,       resulting in reduced product development costs and increased customer satisfaction. 
@@ -55,7 +55,7 @@ I'm a passionate Computer Science & Data Science student at NYU, committed to le
 ---
 
 ### **Extracurriculars & Hobbies**
-♦️ **Travel**: Skiing, music festivals, hiking.
+♦️ **Travel**: Skiing, volleyball, guitar, music festivals.
 🌍 **Diversity Advocacy**: Organizing hackathon between AWS and NYU Women in Data Science Club.
 
 ---
