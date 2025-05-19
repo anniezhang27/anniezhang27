@@ -32,18 +32,23 @@ I'm a passionate Computer Science & Data Science student at NYU, committed to le
    - Developed a time-series forecasting model to predict electricity prices by state for       Verizon.  
    - Tools: Python, Pandas, ARIMA, KLib, Tableau  
    - Improved forecasting accuracy by incorporating seasonal and sectoral trends.
+   - 
+2. **🔗 [WiDS Datathon 2025 Fellow](https://github.com/anniezhang27/WiDS-AI-Studio--Team-Brainwave)**
+   - Built a hybrid model combining GCN embeddings with XGBoost to predict both ADHD diagnosis and biological sex using fMRI brain imaging data and metadata.
+   - Helping identify individuals who may be at risk for ADHD earlier and lead to more personalized medicine and therapies.
+   - Utilized a custom Graph Convolutional Network (GCN) to extract embeddings from functional connectivity matrices (FCMs)
 
-2.  **🔗 [Spotify: The Evolution of Music](https://github.com/anniezhang27/Spotify-The-Evolution-of-Music)**
+3.  **🔗 [Spotify: The Evolution of Music](https://github.com/anniezhang27/Spotify-The-Evolution-of-Music)**
      - Implemented predictve modeling techniques (LSTM) to forecast musical feature trends,       resulting in reduced product development costs and increased customer satisfaction. 
      - Tools: Python, Jupyter Notebook, Kaggle
      - Processed a dataset of 10,000+ songs fetched from Spotify's API, performing                comprehensive EDA to uncover patterns and insights.
 
-3. **🔗 [Themis: Anti-Human Trafficking Program](https://github.com/clarkyang37th/HackNYU-Themis)**  
+4. **🔗 [Themis: Anti-Human Trafficking Program](https://github.com/clarkyang37th/HackNYU-Themis)**  
    - Created a tool that encompassed facial recognition, audio analysis, and text analysis      to identify and combat human trafficking during HackNYU.  
    - Tools: Python, NLP libraries, JavaScript
    - Recognized for innovation and social impact.
 
-4. **🔗 [Financial Advisor Chatbot](https://github.com/anniezhang27/Financial-Advisor-Chatbot)**  
+5. **🔗 [Financial Advisor Chatbot](https://github.com/anniezhang27/Financial-Advisor-Chatbot)**  
    - Created a financial advising chatbot for college students to utilize.
    - Tools: Python, Open AI's API, Gradio (python library)
 
